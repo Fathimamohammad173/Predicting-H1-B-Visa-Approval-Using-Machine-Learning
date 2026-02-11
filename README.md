@@ -127,3 +127,5 @@ After entering the values, click the **"🔍 Predict"** button to see the result
 Here are some images:
 <img width="889" height="600" alt="Screenshot 2025-10-23 202639" src="https://github.com/user-attachments/assets/ae95af88-2d27-460d-8432-71e128d4d6a8" />
 <img width="815" height="204" alt="Screenshot 2025-10-23 202728" src="https://github.com/user-attachments/assets/16a3fe88-9dea-462c-af64-5e7024b0b8bd" />
+
+
